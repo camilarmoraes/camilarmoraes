@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--  -> Sou estudante de Ciência da Computação. Bastante interessada em entender detalhes sobre tecnologia.
+-> Meus interesses são:
+      -Machine Learning
+      -Data Science
+      -Emuladores
+      -Automações com Python
+-->
