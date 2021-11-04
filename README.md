@@ -3,7 +3,7 @@
 
 
 
-Sou estudante de Ciência da Computação, e bastante interessada no mundo da tecnologia:
+Sou estudante de Ciência da Computação, e bastante interessada no mundo da tecnologia.
 
 Meus interesses são:
 
