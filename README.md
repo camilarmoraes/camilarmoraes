@@ -7,7 +7,7 @@ Sou estudante de Ciência da Computação, e bastante interessada no mundo da te
 
 Meus interesses são:
 
-- :computer:Machine Learning
+- :computer: Machine Learning
 - :books: Data Science
 - :video_game: Emuladores de jogos
 - :snake: Automações com Python 
