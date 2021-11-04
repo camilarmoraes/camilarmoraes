@@ -1,23 +1,20 @@
-### Prazer, me chamo Camila!
+### Prazer, me chamo Camila  	:woman_technologist:!
 
-<!--
-**camilarmoraes/camilarmoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+Sou estudante de Ciência da Computação, e bastante interessada no mundo da tecnologia:
+
+Meus interesses são:
+
+- :computer:Machine Learning
+- :books: Data Science
+- :video_game: Emuladores de jogos
+- :snake: Automações com Python 
+<!-- -  
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--  -> Sou estudante de Ciência da Computação. Bastante interessada em entender detalhes sobre tecnologia.
--> Meus interesses são:
-      -Machine Learning
-      -Data Science
-      -Emuladores
-      -Automações com Python
--->
+
