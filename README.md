@@ -11,6 +11,7 @@ Meus interesses são:
 - :books: Data Science
 - :video_game: Emuladores de jogos
 - :snake: Automações com Python 
+- :cloud: Computação em nuvem
 <!-- -  
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
