@@ -12,7 +12,7 @@ Meus interesses são:
 - :video_game: Emuladores de jogos
 - :snake: Automações com Python 
 - :cloud: Computação em nuvem
-- :eight_pointed_black_star: Desenvolvimento Web com Flask e Django
+- :eight_pointed_black_star: Desenvolvimento Web
 
 Minhas tecnologias de interesse e estudo:
 
