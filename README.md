@@ -19,7 +19,7 @@ Minhas tecnologias de interesse e estudo:
 - :woman_technologist: Linguagens de Programação: Python, Java, JavaScript, TypeScript, Rust, Go, C++.
 - :seedling: Frameworks Web: Flask, Django, React, Streamlit.
 - :mage_woman: Machine Learning: TensorFlow, Keras, Sklearn, PyTorch, Transformers.
-- :dragon_face: Data Science: Pandas, Numpy, Matplotlib, Sciki-Learn.
+- :dragon_face: Data Science: Pandas, Numpy, Matplotlib.
 <!-- -  
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
