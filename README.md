@@ -1,16 +1,14 @@
-### Prazer, me chamo Camila  	:woman_technologist:!
+### Prazer, me chamo Camila!
 
 
-
-
-Sou estudante de Ciência da Computação, e bastante interessada no mundo da tecnologia.
+Sou cientista da computação e atuo nas áreas de ciência de dados, machine learning e desenvolvimento back-end com python.
 
 Meus interesses são:
 
 - :computer: Machine Learning
 - :books: Data Science
 - :video_game: Emuladores de jogos
-- :snake: Automações com Python 
+- :snake: Automações 
 - :cloud: Computação em nuvem
 - :eight_pointed_black_star: Desenvolvimento Web
 
@@ -18,8 +16,8 @@ Minhas tecnologias de interesse e estudo:
 
 - :woman_technologist: Linguagens de Programação: Python, JavaScript, TypeScript, Rust, Go, C++.
 - :seedling: Frameworks Web: Flask, Django, React, Streamlit.
-- :mage_woman: Machine Learning: TensorFlow, Keras, Sklearn, PyTorch, Transformers.
-- :dragon_face: Data Science: Pandas, Numpy, Matplotlib.
+- :mage_woman: Machine Learning: TensorFlow, Keras, Sklearn, PyTorch, Transformers, Rapids, Optuna.
+- :dragon_face: Data Science: Pyspark.
 
 <!-- -  
 - 💬 Ask me about ...
