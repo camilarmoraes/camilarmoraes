@@ -1,6 +1,6 @@
 <div align="center">
 
-# Camila Ribeiro
+# Camila Ribeiro de Moraes
 
 **Cientista da Computação · AI/ML Engineer · Data Scientist**
 
